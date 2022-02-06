@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Blog | A blog by random person</title>
+    <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
+    <link>https://arturwieczorek.github.io/blog/</link>
+    <atom:link href="https://arturwieczorek.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 06 Feb 2022 23:49:16 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Feb 2022 23:49:16 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.1</generator>
+    
+      <item>
+        <title>Test Post</title>
+        <description>&lt;p&gt;This is a &lt;a href=&quot;#&quot;&gt;fake link&lt;/a&gt;. It leads to &lt;em&gt;nowhere.&lt;/em&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;This is quoted section&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;and some text in &lt;strong&gt;bold&lt;/strong&gt; .&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt; &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt; &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt; &lt;li&gt;Citations, like &lt;cite&gt;— Thiago Rossener&lt;/cite&gt;, should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt; &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use...</description>
+        <pubDate>Wed, 02 Feb 2022 23:48:05 +0000</pubDate>
+        <link>https://arturwieczorek.github.io/blog/welcome-to-the-desert-of-the-real/</link>
+        <guid isPermaLink="true">https://arturwieczorek.github.io/blog/welcome-to-the-desert-of-the-real/</guid>
+        
+        <category>welcome</category>
+        
+        <category>blog</category>
+        
+        <category>blog</category>
+      </item>
+    
+      <item>
+        <title>Test Post 2</title>
+        <description>&lt;p&gt;Test Post 2&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Feb 2022 12:26:40 +0000</pubDate>
+        <link>https://arturwieczorek.github.io/blog/why-books-should-be-your-priority/</link>
+        <guid isPermaLink="true">https://arturwieczorek.github.io/blog/why-books-should-be-your-priority/</guid>
+        
+        <category>books</category>
+        
+        <category>read</category>
+        
+        <category>life</category>
+      </item>
+    
+  </channel>
+</rss>

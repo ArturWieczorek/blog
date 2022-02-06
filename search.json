@@ -1,0 +1,21 @@
+[
+  
+  
+  
+    {
+      "title"    : "Test Post",
+      "tags"     : "welcome and blog",
+      "categories" : "blog",
+      "url"      : "/blog/welcome-to-the-desert-of-the-real/",
+      "date"     : "02/02/2022"
+    } ,
+  
+    {
+      "title"    : "Test Post 2",
+      "tags"     : "books and read",
+      "categories" : "life",
+      "url"      : "/blog/why-books-should-be-your-priority/",
+      "date"     : "02/02/2022"
+    } 
+  
+]
