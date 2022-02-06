@@ -93,6 +93,7 @@ plugins:
 
 # Exclude my node related stuff
 exclude: [
+  'vendor',
   'package.json',
   'package-lock.json',
   'src',

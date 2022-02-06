@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/art.jpg
+photo: /blog/assets/img/uploads/art.jpg
 name: art
 display_name: Artur
 position: Chief Editor
